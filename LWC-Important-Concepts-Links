@@ -4,4 +4,4 @@ LWC-Doc : https://developer.salesforce.com/docs/component-library/documentation/
 LWC-Live-Code-Snippets-Testing : https://developer.salesforce.com/docs/component-library/bundle/lightning-accordion/example
 LWC-Dev-guided : https://lwc.dev/guide/composition#objects-passed-to-components-are-read-only
 pub-sub : https://github.com/developerforce/pubsub   and video link : https://www.youtube.com/watch?v=4b6qNMQPZ6o
-
+LWC-App creation : https://github.com/muenzpraeger/create-lwc-app
