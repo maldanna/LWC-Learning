@@ -5,3 +5,4 @@ LWC-Live-Code-Snippets-Testing : https://developer.salesforce.com/docs/component
 LWC-Dev-guided : https://lwc.dev/guide/composition#objects-passed-to-components-are-read-only
 pub-sub : https://github.com/developerforce/pubsub   and video link : https://www.youtube.com/watch?v=4b6qNMQPZ6o
 LWC-App creation : https://github.com/muenzpraeger/create-lwc-app
+formula fields operators: https://salesforcethinkers.home.blog/2020/04/14/math-formula-operators-and-functions-in-salesforce/#:~:text=MOD%20%3A,divided%20by%20a%20specified%20divisor.&text=Replace%20number%20with%20the%20field%20or%20expression%20you%20want%20divided,to%20use%20as%20the%20divisor.
